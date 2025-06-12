@@ -13,19 +13,19 @@ export default function About() {
         <div>
           <div className="space-y-4 text-white-600">
             <p>
-              I'm a computer science student who discovered a passion for web 
+              I&apos;m a computer science student who discovered a passion for web 
               development through my time at 100 Girls of Code when I was in 
               middle school. What started as curiosity grew into enthusiasm for 
               creating digital solutions to improve user experiences.
             </p>
             <p>
-              Currently, I'm focused on mastering React and Next.js while building 
+              Currently, I&apos;m focused on mastering React and Next.js while building 
               projects that demonstrate my skills. I love the problem-solving aspect 
               of coding and the satisfaction of turning ideas into functional and beautiful 
               websites.
             </p>
             <p>
-              I'm actively seeking opportunities to contribute to a team where I can 
+              I&apos;m actively seeking opportunities to contribute to a team where I can 
               continue learning while adding value through my perspective and dedication 
               to quality work.
             </p>
