@@ -1,10 +1,14 @@
 import Link from 'next/link'
 
-export default function Header() {
+export default function Sidebar() {
     return (
-        <header className="bg-black shadow-sm">
+        <nav className="bg-black shadow-sm">
             <nav className="container mx-auto px-4 py-4">
                 <div className="flex justify-between items-center">
+                    <Head>
+                        href="https://fonts.googleapis.com/css2?family=Work+Sans:wght@300;400;600;700&family=Georgia:wght@400;700&display=swap"
+                        rel="stylesheet"
+                    </Head>
                     <Link href="/" className="text-2xl font-bold text-gray-800">
                         Simisola Omotoso
                     </Link>
@@ -24,6 +28,6 @@ export default function Header() {
                     </div>
                 </div>
             </nav>
-        </header>
+        </nav>
     )
 }
